@@ -2,7 +2,7 @@
 build/
 DerivedData/
 CombineCocoa.framework.zip
-CombineCocoa.xcodeproj
+#CombineCocoa.xcodeproj
 Example/Example.xcworkspace
 
 ## Various settings
